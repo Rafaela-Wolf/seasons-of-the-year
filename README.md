@@ -8,7 +8,7 @@ To get started with this project, clone the repository to your local machine:
 git clone https://github.com/Rafaela-Wolf/seasons-of-the-year.git
 cd seasons-of-the-year
 
-Make sure you have Node.js installed. TIf not, install the dependencies:
+Make sure you have Node.js installed. If not, install the dependencies:
 npm install
 
 ## Usage
